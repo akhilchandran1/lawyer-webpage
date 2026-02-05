@@ -32,6 +32,18 @@ export default function Footer() {
           Information on this site is for general purposes and does not
           constitute legal advice.
         </p>
+        <p className="mt-3 text-xs text-slate-400">
+          Created by{" "}
+          <a
+            href="https://akhilchandran.com"
+            className="font-semibold text-slate-200 hover:text-white"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Akhil Chandran
+          </a>
+          .
+        </p>
       </div>
     </footer>
   );
