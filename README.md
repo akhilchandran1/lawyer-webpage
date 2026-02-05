@@ -2,6 +2,10 @@
 
 Single-page, professional website built with Next.js App Router, TypeScript, and Tailwind CSS.
 
+## License
+
+All rights reserved. No permission is granted to use, copy, modify, merge, publish, distribute, sublicense, or sell any part of this codebase without explicit written permission from the copyright holder. See `LICENSE`.
+
 ## Setup
 
 ```bash
